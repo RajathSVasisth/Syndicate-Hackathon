@@ -1,5 +1,5 @@
 # Syndicate-Hackathon
->This repository contains all encryption as well as flask web- app files required for hosting and running a web url.		
+>*This repository contains all encryption as well as flask web- app files required for hosting and running a web url.		
 >The website is already hosted on rajathsv.pythonanywhere.com along with an active database.  
 >But for recognising the internal structure of how the encrytion scheme encrypts passwords and how the web-app
  and the encryption schemes are inter-connected, the following is to be done to run the app on a local-host.    
