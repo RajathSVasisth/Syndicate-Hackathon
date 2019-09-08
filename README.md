@@ -1,16 +1,16 @@
 # Syndicate-Hackathon
 >This repository contains all encryption as well as flask web- app files required for hosting and running a web url.		
->The website is already hosted on rajathsv.pythonanywhere.com along with an active database.
+>The website is already hosted on rajathsv.pythonanywhere.com along with an active database.  
 >But for recognising the internal structure of how the encrytion scheme encrypts passwords and how the web-app
- and the encryption schemes are inter-connected, the following is to be done to run the app on a local-host.
- >First of all make sure you have the latest python running on your system. (3.5 and above)
- >pip install the following libraries to run the app:-
-              >pip install PyCrypto
-              >pip install flask
-              >pip install flask-bootstrap
-              >pip install flask-sqlalchemy
-              >pip install flask-wtf
-              >pip install flask-login
+ and the encryption schemes are inter-connected, the following is to be done to run the app on a local-host.  
+ >First of all make sure you have the latest python running on your system. (3.5 and above) . 
+ >pip install the following libraries to run the app:-  
+              >pip install PyCrypto 
+              >pip install flask 
+              >pip install flask-bootstrap 
+              >pip install flask-sqlalchemy  
+              >pip install flask-wtf  
+              >pip install flask-login  
  >After downloading the above folder, in the app.py file change the sqlite database storage location to
   where ever the user had downloaded the web app folder and save it. Specific instructions have been given
   as comments in the app.py file itself.
